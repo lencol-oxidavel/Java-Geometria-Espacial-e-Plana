@@ -13,6 +13,15 @@ public class Aplicacao {
             System.out.println("Escolha: ");
             escolha = ler.nextInt();
 
+
+            switch(escolha) {
+                case 1:
+                    break;
+                
+                default:
+                    break;
+            }
+
             
 
         }
