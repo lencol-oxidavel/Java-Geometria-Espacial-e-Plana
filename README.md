@@ -16,7 +16,7 @@ O projeto deve estar hospedado no GitHub da dupla.
 
 2. Estrutura de classes
 * Criar duas classes:
-    * GeometriaPlana → Contendo métodos para cálculos de figuras planas.
+ * GeometriaPlana → Contendo métodos para cálculos de figuras planas.
     * GeometriaEspacial → Contendo métodos para cálculos de sólidos geométricos.
 * Cada método deve implementar cálculos conforme as fórmulas fornecidas nas imagens de referência.
 
