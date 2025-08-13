@@ -16,23 +16,23 @@ O projeto deve estar hospedado no GitHub da dupla.
 
 2. Estrutura de classes
 * Criar duas classes:
-  * GeometriaPlana → Contendo métodos para cálculos de figuras planas.
+    * GeometriaPlana → Contendo métodos para cálculos de figuras planas.
     * GeometriaEspacial → Contendo métodos para cálculos de sólidos geométricos.
 * Cada método deve implementar cálculos conforme as fórmulas fornecidas nas imagens de referência.
 
 3. Classe principal de execução
 * Deve conter um menu interativo que permita:
- * Escolher o tipo de cálculo (plano ou espacial).
- * Selecionar a figura desejada.
- * Inserir valores necessários (raio, base, altura, etc.).
+    * Escolher o tipo de cálculo (plano ou espacial).
+    * Selecionar a figura desejada.
+    * Inserir valores necessários (raio, base, altura, etc.).
 * Exibir o resultado formatado na tela.
 * O programa só deve encerrar quando o usuário escolher explicitamente a opção Sair.
 
 4. Fórmulas e cálculos
 * Os cálculos devem seguir as fórmulas indicadas nas imagens de referência.
 * Exemplo de métodos esperados:
- * Geometria Plana: área e perímetro de círculo, retângulo, triângulo, polígono regular.
- * Geometria Espacial: volume e área superficial de cubo, esfera, cilindro, prisma, etc.
+    * Geometria Plana: área e perímetro de círculo, retângulo, triângulo, polígono regular.
+    * Geometria Espacial: volume e área superficial de cubo, esfera, cilindro, prisma, etc.
 
 5. Testes obrigatórios
 * Todos os métodos de cálculo devem ser testados para garantir resultados corretos.
