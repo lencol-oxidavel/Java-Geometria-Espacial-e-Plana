@@ -22,7 +22,7 @@ public class GeometriaEspacial {
     }
     
     public double prismaAreaTotal(double prismaAreaBase, double prismaAreaLateral){
-        return prismaAreaBase + prismaAreaLateral;
+        return 2 * prismaAreaBase + prismaAreaLateral;
     }
     public double prismaVolume(double prismaAreaBase, double altura){
         return prismaAreaBase * altura;
@@ -52,6 +52,9 @@ public class GeometriaEspacial {
     }
     public double cilindroVolume(double raio, double altura){
         return Math.PI * Math.pow(raio, 2) * altura;
+    }
+    public double cilindroAreaTotal(double areaLateral, double areaBase){
+        return 2 * areaBase + areaLateral;
     }
     // cilindro 
     
