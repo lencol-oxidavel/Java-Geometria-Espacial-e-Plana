@@ -43,7 +43,7 @@ public class GeometriaEspacial {
     }
     // pirâmide
 
-    // cilindro
+    // cilindro1
 
     // area da base é a area de uma circunferencia
 
